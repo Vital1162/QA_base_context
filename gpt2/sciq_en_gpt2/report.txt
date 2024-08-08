@@ -1,0 +1,1 @@
+Kết quả generate text bị trùng lặp với prompt
